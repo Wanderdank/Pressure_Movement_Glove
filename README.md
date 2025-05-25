@@ -1,4 +1,4 @@
-# Hand Rehabilitation Tracker
+# Pressure and Movement Glove
 
 ¡Bienvenido a mi proyecto de Unity! 🚀
 
