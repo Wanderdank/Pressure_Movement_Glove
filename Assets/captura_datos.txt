@@ -1,0 +1,42 @@
+Dedo índice: -37.1276670331822 grados
+Dedo medio: -46.7533571201916 grados
+Dedo anular: -52.2537508701807 grados
+Dedo meñique: -28.8770723100849 grados
+Dedo pulgar: -2.75019738725877 grados
+Muñeca (Inspector): 1.146 grados
+
+Dedo índice: -93.5067142403832 grados
+Dedo medio: -97.6320064792899 grados
+Dedo anular: -93.5067142403832 grados
+Dedo meñique: -67.3798388052928 grados
+Dedo pulgar: 9.62569111153778 grados
+Muñeca (Inspector): 4.582 grados
+
+Dedo índice: -93.5067142403832 grados
+Dedo medio: -97.6320064792899 grados
+Dedo anular: -93.5067142403832 grados
+Dedo meñique: -67.3798388052928 grados
+Dedo pulgar: 9.62569111153778 grados
+Muñeca (Inspector): 4.582 grados
+
+Dedo índice: -93.5067142403832 grados
+Dedo medio: -97.6320064792899 grados
+Dedo anular: -93.5067142403832 grados
+Dedo meñique: -67.3798388052928 grados
+Dedo pulgar: 9.62569111153778 grados
+Muñeca (Inspector): 4.582 grados
+
+Dedo índice: -93.5067142403832 grados
+Dedo medio: -100.382209501455 grados
+Dedo anular: -89.3814138052494 grados
+Dedo meñique: -79.75572371824 grados
+Dedo pulgar: -34.3774681091309 grados
+Muñeca (Inspector): -35.942 grados
+
+Dedo índice: 56.379047207201 grados
+Dedo medio: 59.1292461312523 grados
+Dedo anular: 60.5043435442212 grados
+Dedo meñique: 59.1292461312523 grados
+Dedo pulgar: 61.8794409571901 grados
+Muñeca (Inspector): 46.532 grados
+
